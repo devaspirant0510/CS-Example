@@ -1,0 +1,9 @@
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\bin\Debug\Chapter1.exe.config
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\bin\Debug\Chapter1.exe
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\bin\Debug\Chapter1.pdb
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.Form1.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.Properties.Resources.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.csproj.GenerateResource.cache
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.csproj.CoreCompileInputs.cache
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.exe
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter1\obj\Debug\Chapter1.pdb
