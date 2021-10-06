@@ -28,33 +28,32 @@ namespace Chapter5
             {
                 if (i % 2 == 1)
                 {
-                    textBox2.Text += i+" + ";
+                    textBox2.Text += i + " + ";
                     sum1 += i;
                 }
                 else
                 {
-                    textBox3.Text += i+" + ";
+                    textBox3.Text += i + " + ";
                     sum2 += i;
                 }
                 i += 1;
-
-
             }
-/*            for (int i=1; i<N+1; i++)
-            {
-                if (i % 2 == 1)
-                {
-                    textBox2.Text += i+" + ";
-                    sum1 += i;
-                }
-                else
-                {
-                    textBox3.Text += i+" + ";
-                    sum2 += i;
-                }
+            /*            for (int i=1; i<N+1; i++)
+                        {
+                            if (i % 2 == 1)
+                            {
+                                textBox2.Text += i+" + ";
+                                sum1 += i;
+                            }
+                            else
+                            {
+                                textBox3.Text += i+" + ";
+                                sum2 += i;
+                            }
 
-            }
-*/            textBox2.AppendText("=" + sum1);
+                        }
+            */
+            textBox2.AppendText("=" + sum1);
             textBox3.AppendText("=" + sum2);
 
         }
