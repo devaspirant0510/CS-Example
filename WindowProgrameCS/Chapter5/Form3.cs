@@ -23,7 +23,24 @@ namespace Chapter5
             textBox3.Text = "";
             int N = int.Parse(textBox1.Text);
             int sum1 = 0, sum2 = 0;
-            for (int i=1; i<N+1; i++)
+            int i = 1;
+            while (i < N + 1)
+            {
+                if (i % 2 == 1)
+                {
+                    textBox2.Text += i+" + ";
+                    sum1 += i;
+                }
+                else
+                {
+                    textBox3.Text += i+" + ";
+                    sum2 += i;
+                }
+                i += 1;
+
+
+            }
+/*            for (int i=1; i<N+1; i++)
             {
                 if (i % 2 == 1)
                 {
@@ -37,7 +54,7 @@ namespace Chapter5
                 }
 
             }
-            textBox2.AppendText("=" + sum1);
+*/            textBox2.AppendText("=" + sum1);
             textBox3.AppendText("=" + sum2);
 
         }
