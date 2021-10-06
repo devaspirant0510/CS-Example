@@ -1,0 +1,12 @@
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.Form1.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.Properties.Resources.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.csproj.GenerateResource.cache
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.csproj.CoreCompileInputs.cache
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\bin\Debug\Chapter5.exe.config
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\bin\Debug\Chapter5.exe
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\bin\Debug\Chapter5.pdb
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.exe
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.pdb
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.Form2.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.Form3.resources
+D:\seungho\Seoil\csExample\WindowProgrameCS\Chapter5\obj\Debug\Chapter5.csprojAssemblyReference.cache
